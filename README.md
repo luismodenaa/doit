@@ -1,6 +1,1 @@
-<h1 align="center">  <img alt="KenzieHub" title="KenzieHub" src="https://kenzie.com.br/images/logoblue.svg" width="100px" />  Li-Marus</h1>
-<!-- <h1 align="center">
-@@ -20,7 +20,7 @@ Este é o backend da aplicação KenzieHub - Um hub de portfólios de programado
-<!-- A API tem um total de 13 endpoints, sendo em volta principalmente do usuário (dev) - podendo cadastrar seu perfil, tecnologias que estuda e trabalhos realizados. <br/> -->
-<a style="display:flex; justify-content:center" href="https://insomnia.rest/run/?label=Li-Marus&uri=https%3A%2F%2Fgithub.com%2FKenzie-Academy-Brasil-Developers%2Fkenziehub-api%2Fblob%2Fmain%2Finsominia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a><a style="display:flex; justify-content:center" href="https://insomnia.rest/run/?label=Li-Marus&uri=https%3A%2F%2Fgithub.com%2FGrupo-5-Daniel-Kenzie-Academy%2FApi-Li-Maurus%2Fblob%2Fmain%2Finsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-<!-- <blockquote> Para importar o JSON no Insomnia é só clicar no botão "Run in Insomnia". Depois é só seguir os passos que ele irá importar todos os endpoints em seu insomnia.</blockquote>
+
