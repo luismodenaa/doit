@@ -2,9 +2,14 @@ import { Image, Pressable, Text, View } from "react-native";
 import styled from "styled-components";
 import { color } from "../../styles/colors";
 
+export const Logo = styled(Image)`
+  width: 20%;
+  height: 130%;
+`;
+
 export const ImgHead = styled(Image)`
-  width: 50px;
-  height: 50px;
+  width: 16%;
+  height: 80%;
 `;
 
 export const ContainerLogoBtn = styled(View)`
@@ -15,7 +20,7 @@ export const ContainerLogoBtn = styled(View)`
 
 export const PressableBackBtn = styled(Pressable)`
   background-color: ${color.colorPrimary};
-  padding: 10px 14px;
+  padding: 3% 4%;
   border-radius: 5px;
 `;
 
@@ -25,7 +30,7 @@ export const ImgBack = styled(Image)`
 `;
 
 export const ContainerInfo = styled(View)`
-  margin-top: 30px;
+  margin-top: 10%;
 `;
 
 export const ContainerTexts = styled(View)`
@@ -36,11 +41,11 @@ export const ContainerTexts = styled(View)`
 export const ContainerTexts2 = styled(View)`
   display: flex;
   flex-direction: row;
-  margin-top: 20px;
+  margin-top: 5%;
 `;
 
 export const Texts = styled(View)`
-  margin-left: 15px;
+  margin-left: 5%;
 `;
 
 export const TitleInfo = styled(Text)`
@@ -53,6 +58,6 @@ export const Info = styled(Text)`
   color: ${color.colorBaseDefault};
   font-size: 14px;
   font-weight: 400;
-  margin-top: 8px;
-  width: 300px;
+  margin-top: 2%;
+  width: 60%;
 `;

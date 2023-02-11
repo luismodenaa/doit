@@ -1,4 +1,4 @@
-import { Image, Pressable, Text, View } from "react-native";
+import { Image, Text, View } from "react-native";
 import styled from "styled-components";
 import { color } from "../../styles/colors";
 
@@ -9,12 +9,12 @@ export const Container = styled(View)`
 `;
 
 export const Logo = styled(Image)`
-  width: 120px;
-  height: 80px;
+  width: 25%;
+  height: 22.5%;
 `;
 
 export const ContainerText = styled(View)`
-  margin-top: 30px;
+  margin-top: 5%;
 `;
 
 export const TextOne = styled(Text)`
