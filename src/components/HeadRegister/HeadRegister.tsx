@@ -1,5 +1,5 @@
 import { Image } from "react-native";
-import { Logo, Container } from "../HeadLogin/style";
+import { Container } from "../HeadLogin/style";
 import {
   ContainerInfo,
   ContainerLogoBtn,
@@ -8,6 +8,7 @@ import {
   ImgBack,
   ImgHead,
   Info,
+  Logo,
   PressableBackBtn,
   Texts,
   TitleInfo,

@@ -4,7 +4,7 @@ import { color } from "../../styles/colors";
 
 export const PressableBtnSubmit = styled(Pressable)`
   background-color: ${color.colorSecondary};
-  padding: 14px 0;
+  padding: 5% 0;
   display: flex;
   align-items: center;
   border-radius: 8px;
@@ -17,5 +17,5 @@ export const TextBtn = styled(Text)`
 `;
 
 export const FormRegister = styled(View)`
-  margin-top: 5px;
+  margin-top: 0px;
 `;

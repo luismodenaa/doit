@@ -1,4 +1,4 @@
-import { Text, TextInput, View, Button } from "react-native";
+import { View } from "react-native";
 import {
   BoxLogin,
   BtnText,
